@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Change {
+public class Change {
+    int x = 1;
 }

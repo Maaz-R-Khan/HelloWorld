@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args) {
     System.out.println("Hello World!");
-
+    Change myObj = new Change();
+    System.out.println(myObj.x);
+    System.out.println("123");
+    System.out.println("this is another change");
     }
 }
